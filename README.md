@@ -8,3 +8,8 @@ CS50x Problem Sets (2020/21)
 * [Hello](https://github.com/RKaurB/CS50x/blob/main/ProblemSet_1/hello.c)
 * [Mario](https://github.com/RKaurB/CS50x/blob/main/ProblemSet_1/mario.c)
 * [Cash](https://github.com/RKaurB/CS50x/blob/main/ProblemSet_1/cash.c)
+
+[Week 2 - C](https://github.com/RKaurB/CS50x/tree/main/ProblemSet_2)
+
+* [Readability](https://github.com/RKaurB/CS50x/blob/main/ProblemSet_2/readability.c)
+* [Caesar](https://github.com/RKaurB/CS50x/blob/main/ProblemSet_2/caesar.c)
