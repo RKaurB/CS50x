@@ -1,4 +1,4 @@
-# CS50x
+# CS50's Introduction to Computer Science
 ## CS50x Problem Sets (2020/21)
 ### _[Academic Honesty](https://cs50.harvard.edu/x/2021/honesty/)_
 
