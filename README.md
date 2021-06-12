@@ -3,6 +3,7 @@
 ### _[Academic Honesty](https://cs50.harvard.edu/x/2021/honesty/)_
 
 [Week 0 - Scratch](https://scratch.mit.edu/projects/398993965/)
+* A fun little project using Scratch to make a simple platform game: [Sleepy Brain](https://scratch.mit.edu/projects/398993965/)
 
 [Week 1 - C](https://github.com/RKaurB/CS50x/tree/main/ProblemSet_1)
 
