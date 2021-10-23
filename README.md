@@ -1,5 +1,5 @@
 # [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-## CS50x Problem Sets (2020/21)
+## CS50x Problem Sets
 ### _[Academic Honesty](https://cs50.harvard.edu/x/2021/honesty/)_
 
 [Week 0 - Scratch](https://scratch.mit.edu/projects/398993965/)
